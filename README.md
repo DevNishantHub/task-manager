@@ -34,7 +34,7 @@ A comprehensive task management application with a Flask backend and React+TypeS
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/task-manager.git
+   git clone https://github.com/DevNishantHub/task-manager.git
    cd task-manager
    ```
 
